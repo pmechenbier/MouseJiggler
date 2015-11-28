@@ -4,7 +4,7 @@ Mouse Jiggler is a very simple piece of software whose sole function is to "fake
 
 Useful for avoiding screensavers or other things triggered by idle detection that, for whatever reason, you can't turn off any other way; or as a quick way to stop a screensaver activating during an installation or when monitoring a long operation without actually having to muck about with the screensaver settings.
 
-This 1.7 version of Mouse Jiggler stops the jiggling of the mouse if the mouse was moved since the last jiggle, allowing fine control of the mouse pointer while Mouse Jiggler is not in non-zen jiggle mode.
+This modification of Mouse Jiggler stops the jiggling of the mouse if the mouse was moved since the last jiggle, allowing fine control of the mouse pointer while Mouse Jiggler is not in non-zen jiggle mode.
 
 #Operation
 
@@ -21,3 +21,6 @@ The "-z" / "--zen" command-line switch forces zen jiggling to be enabled for the
 (Added in 1.5+): The "-m" / "--minimized" command-like switch tells MouseJiggler to start already minimized.
 
 That's it. Enjoy!
+
+##Credits
+Mouse Jiggler was originally written by [Alistair J. R. Young, Arkane Systems](http://mousejiggler.codeplex.com/)
